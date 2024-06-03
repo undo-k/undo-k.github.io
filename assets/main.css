@@ -1,0 +1,10 @@
+:root {
+    --proprietary-color-do-not-steal-i-will-know-if-you-do: #fcefd9;
+    /* color borrowed from picoss */
+    background-color: var(
+        --proprietary-color-do-not-steal-i-will-know-if-you-do
+    );
+    font-family: monospace;
+    text-align: center;
+    margin-top: 25%;
+}
